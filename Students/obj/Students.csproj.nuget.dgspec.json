@@ -62,10 +62,6 @@
               "target": "Package",
               "version": "[9.0.10, )"
             },
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.9, )"
-            },
             "Microsoft.AspNetCore.RateLimiting": {
               "target": "Package",
               "version": "[7.0.0-rc.2.22476.2, )"
