@@ -1,4 +1,4 @@
-namespace Security.Models.DTOS
+namespace Students.Models.DTOS
 {
     public class UserResponse
     {
