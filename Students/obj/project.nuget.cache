@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "01eROABuZS8=",
+  "dgSpecHash": "0dZz286Lw/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\caleb\\Downloads\\Students\\Students\\Students.csproj",
+  "projectFilePath": "C:\\Users\\caleb\\Downloads\\Students\\students\\Students.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caleb\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\caleb\\.nuget\\packages\\dotnetenv\\3.1.1\\dotnetenv.3.1.1.nupkg.sha512",
+    "C:\\Users\\caleb\\.nuget\\packages\\fluentassertions\\8.8.0\\fluentassertions.8.8.0.nupkg.sha512",
     "C:\\Users\\caleb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\caleb\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.10\\microsoft.aspnetcore.authentication.jwtbearer.9.0.10.nupkg.sha512",
     "C:\\Users\\caleb\\.nuget\\packages\\microsoft.aspnetcore.ratelimiting\\7.0.0-rc.2.22476.2\\microsoft.aspnetcore.ratelimiting.7.0.0-rc.2.22476.2.nupkg.sha512",

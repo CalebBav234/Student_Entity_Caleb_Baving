@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caleb\\Downloads\\Students\\Students\\Students.csproj": {}
+    "C:\\Users\\caleb\\Downloads\\Students\\students\\Students.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caleb\\Downloads\\Students\\Students\\Students.csproj": {
+    "C:\\Users\\caleb\\Downloads\\Students\\students\\Students.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caleb\\Downloads\\Students\\Students\\Students.csproj",
+        "projectUniqueName": "C:\\Users\\caleb\\Downloads\\Students\\students\\Students.csproj",
         "projectName": "Students",
-        "projectPath": "C:\\Users\\caleb\\Downloads\\Students\\Students\\Students.csproj",
+        "projectPath": "C:\\Users\\caleb\\Downloads\\Students\\students\\Students.csproj",
         "packagesPath": "C:\\Users\\caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caleb\\Downloads\\Students\\Students\\obj\\",
+        "outputPath": "C:\\Users\\caleb\\Downloads\\Students\\students\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,10 @@
             "DotNetEnv": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

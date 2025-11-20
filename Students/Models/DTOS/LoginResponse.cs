@@ -8,6 +8,11 @@ namespace Students.Models.DTOS
         public required string RefreshToken { get; set; }
         public string TokenType { get; set; } = "Bearer";
         public int ExpiresIn { get; set; } // en segundos
+
+        public object Should()
+        {
+            throw new NotImplementedException();
+        }
     }
 
     public class UserDto
